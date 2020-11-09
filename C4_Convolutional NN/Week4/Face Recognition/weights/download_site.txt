@@ -1,0 +1,3 @@
+# the trained model data volumn is around 29M, you have to download by yourself, here is the link
+# https://drive.google.com/file/d/1lRP-rf5r87Lsxn2X0Ewg1VAx80n_WbDZ/view
+# thanks for the share from kotestyle
